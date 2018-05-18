@@ -1,61 +1,94 @@
 # ISL Programing Language
 Created Using Python 3, simple but not Powerful. Just my project
 
-REQUIRMENTS :
+## REQUIRMENTS :
 
 1. Python 3.4 or Above
 
 2. Windows Xp or Above
 
-Instructions :
+### Command :
+1.write
 
-command:
-1. write
+Usage :
 
-Usage = write (($variable_name) or (Some text) or (math (num1) +-/* (num2)))
+```
+write (text or variable)
+```
 
-2. clear
+2.clear
 
-Usage = clear
+Usage :
+
+```
+clear
+```
 (clear the console)
 
-3. varstr
+3.varstr
 
-Usage = varstr (var_name) = (var_content)
-(Creatre an a string variable)
+Usage :
 
-4. varnum
+```
+varstr (var_name) = (var_content)
+```
+(Create an a string variable)
 
-Usage = varnum (var_name) = (var_content)
+4.varnum
+
+Usage :
+
+```
+varnum (var_name) = (var_content)
+```
 (Create an a number variable)
 
-5. math
+5.math
 
-Usage = math (num1) +-/* (num2)
+Usage :
 
-6. debug_var
+```
+math (num1) +-/* (num2)
+```
 
-Usage = debug_var
+6.debug_var
+
+Usage :
+
+```
+debug_var
+```
 (Print the variable dictionary)
 
-7. history
+7.history
 
-Usage = history {clear}
+Usage :
+```
+history {clear}
+```
 (print the history, or clear it(not working))
 
-8. inpt
+8.inpt
 
-Usage = inpt = (var_name)
+Usage :
+```
+inpt = (var_name)
+```
 (Getting the input from user)
 
-9. quit
+9.quit
 
-Usage = quit
+Usage : 
+```
+quit
+```
 (Directly close the console)
 
-10. color (Windows Only)
+10.color (Windows Only)
 
-Usage = color (green, blue, red, etc.)
+Usage :
+```
+color (green, blue, red, etc.)
+```
 
-
-If you not using windows just download the main.py files..
+## If you not using windows, then run the main.py file..
